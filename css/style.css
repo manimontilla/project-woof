@@ -1,0 +1,153 @@
+
+
+h1 {
+	font-size: 3em;
+	color: #fff;
+}
+
+p {
+	font-family: "Comic Sans MS", cursive, serif;
+}
+
+a {
+	font-family: "Comic Sans MS", cursive, serif;
+}
+
+li {
+font-family: "Comic Sans MS", cursive, serif;
+}
+
+img {
+	border: 1px dotted black;
+}
+/****   DIV DESIGN   *****/
+
+.heading-wrap {
+	background: black url("../img/plaid.png");
+	width: 100%;
+	margin-bottom: -1.1%;
+	color: #fff;
+	margin-top: -2.2%;
+	padding: 1%;
+}
+
+.intro-wrap {
+	background-color: #4876aa;
+	margin-bottom: -2.5%;
+	width: 100%;
+	padding: 2%;
+}
+
+.question-wrap {
+	background: #fff;
+	width: 100%;
+	margin-bottom: -1.5%;
+	padding: 2%;
+}
+
+.care-wrap {
+	background: #4876aa;
+	width: 100%;
+	margin-bottom: -1.3%;
+	padding: 2%;
+}
+
+.footer {
+	background: #052b56;
+	width: 100%;
+}
+
+/***** NAVIGATION ******/
+
+nav li{
+	list-style-type: none;
+	font-size: 2em;
+	color: #fff;
+}
+
+nav a {
+	text-decoration: none;
+	color: #fff;
+}
+
+nav a:hover {
+	color: #052b56;
+}
+
+
+/**** INTRO *****/
+.intro-wrap {
+	text-align: center;
+	color: #fff;
+}
+.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2 {
+	color: #fff;
+	text-align: center;
+	font-size: 2em;
+}
+
+.intro-wrap img {
+	height: 20%;
+	width: 20%;
+}
+
+/**** BUY ONE ****/
+
+.question-wrap {
+	text-align: center;
+	color: #4876aa;
+}
+.question-wrap h3 {
+	color: #4876aa;
+	text-align: center;
+	font-size: 2em;
+}
+
+.question-wrap img {
+	height: 20%;
+	width: 20%;
+}
+
+.question-wrap li{
+	list-style: none;
+}
+
+.question-wrap a {
+	text-decoration: none;
+	color: #4876aa;
+	font-size: 1.3em;
+}
+
+.question-wrap a:hover {
+	color: #052b56;
+}
+
+/**** CARE *****/
+
+.care-wrap {
+	text-align: center;
+	color: #fff;
+}
+
+.care-wrap img{
+	height: 20%;
+	width: 20%;
+}
+
+.care-wrap h3{
+	color: #fff;
+	font-size: 2em;
+}
+
+ol {
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
